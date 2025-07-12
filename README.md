@@ -170,3 +170,4 @@ Found a DrawViewKey for a new app? Please contribute to the known apps database 
 - Built on the MMKV database research from the MobileRead Forums community
 - DrawViewKey database compiled from [calliecameron's gist](https://gist.github.com/calliecameron/b3c62c601d255630468bd493380e3b7e#gistcomment-5673800)
 - Uses Tencent's MMKV library Python bindings
+- Made with <3 (and also Claude) in Austin, TX
