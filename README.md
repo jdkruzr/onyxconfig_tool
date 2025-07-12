@@ -15,8 +15,8 @@ This tool simplifies the process dramatically, especially for popular apps with 
 
 ## Setup
 
-0. **Clone the MMKV repository from here:** https://github.com/Tencent/MMKV
-1. 
+1. **Clone the MMKV repository from here:** https://github.com/Tencent/MMKV
+
 Now create a virtualenv to work in in the MMKV directory and activate it: `python3 -m venv venv && source venv/bin/activate`
 
 2. **Build the MMKV Python bindings** (if not already done):
